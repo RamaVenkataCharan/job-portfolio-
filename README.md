@@ -15,7 +15,7 @@ I enjoy building innovative solutions, exploring modern AI tools, and developing
 - Display certifications and achievements
 - Present internship and professional experience
 - Provide an easy way for recruiters and collaborators to connect
-
+                                             
 ## 🚀 Features
 
 ### Home Section
